@@ -29,6 +29,14 @@
     "bignum"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QsPromise/decimal.git"
+  },
+  "homepage": "https://github.com/QsPromise/decimal",
+  "bugs": {
+    "url": "https://github.com/QsPromise/decimal/issues"
+  },
   "engines": {
     "node": ">=20.17.0"
   },
